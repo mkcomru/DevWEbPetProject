@@ -86,23 +86,5 @@ header nav ul li.btn a:hover {
     background: #a02604;
 }
 
-.hero {
-    padding-bottom: 100px;
-}
 
-.hero--info {
-    width: 530px;
-    padding-top: 70px;
-}
-
-.hero--info h2 {
-    color: #E87D0E;
-    font-size: 20px;
-    font-weight: 600;
-}
-
-.hero--info h1 {
-    font-size: 50px;
-    font-weight: 600;
-}
 
